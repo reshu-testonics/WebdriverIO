@@ -1,0 +1,1 @@
+.\node_modules\.bin\allure generate .\allure-results\ --clean
