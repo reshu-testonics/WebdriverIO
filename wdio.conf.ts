@@ -10,7 +10,7 @@ exports.config = {
     // WebdriverIO allows it to run your tests in arbitrary locations (e.g. locally or
     // on a remote machine).
     runner: 'local',
-    services: ['docker'],
+    // services: ['docker'],
     // services: ['selenium-standalone'],
     //
     // ==================
@@ -30,8 +30,8 @@ exports.config = {
     //
     specs: [
         // './test/specs/mocha/*.js'
-        './test/specs/jasmine/*.js'
-        // './test/specs/cucumber/features/*.feature'
+        // './test/specs/jasmine/*.js'
+        './test/specs/cucumber/features/*.feature'
     ],
     // Patterns to exclude.
     exclude: [
@@ -91,7 +91,7 @@ exports.config = {
     // Define all options that are relevant for the WebdriverIO instance here
     //
     // Level of logging verbosity: trace | debug | info | warn | error | silent
-    logLevel: 'info',
+    logLevel: 'error',
     //
     // Set specific log levels per logger
     // loggers:
@@ -139,7 +139,7 @@ exports.config = {
     //
     // Make sure you have the wdio adapter package for the specific framework installed
     // before running any tests.
-    framework: 'mocha',
+    framework: 'cucumber',
     //
     // The number of times to retry the entire specfile when it fails as a whole
     // specFileRetries: 1,
@@ -159,7 +159,6 @@ exports.config = {
             disableWebdriverScreenshotsReporting: false,
         }]
     ],
-    
 
     
     //
@@ -185,7 +184,7 @@ exports.config = {
     },
 
     cucumberOpts: {
-        require: ['./test/specs/cucumber/step-definitions/*.js'],        // <string[]> (file/dir) require files before executing features
+        require: ['./test/specs/cucumber/step-definitions/*.ts'],        // <string[]> (file/dir) require files before executing features
         backtrace: false,   // <boolean> show full backtrace for errors
         compiler: [],       // <string[]> ("extension:module") require files with the given EXTENSION after requiring MODULE (repeatable)
         dryRun: false,      // <boolean> invoke formatters without executing steps
@@ -283,12 +282,7 @@ exports.config = {
      */
     // afterTest: function(test, context, { error, result, duration, passed, retries }) {
     // },
-
-
     afterStep: function (step, context, { error, result, duration, passed, retries }) {
-        if(error) {
-            browser.saveScreenshot('./reports/screenshots/Fail_' + moment().format('DD-MMM-YYYY-HH-MM-SS') + '.png')
-        }
     },
 
     /**
@@ -331,11 +325,11 @@ exports.config = {
      * @param {Array.<Object>} capabilities list of capabilities details
      * @param {<Object>} results object containing test results
      */
-    onComplete: function(exitCode, config, capabilities, results) {
-        // report.generate({
-        //     jsonDir: './reports/cucumber/json/',
-        //     reportPath: './reports/cucumber/html/'
-        //   });
+    onComplete: async function(exitCode, config, capabilities, results) {
+        report.generate({
+            jsonDir: './reports/cucumber/json/',
+            reportPath: './reports/cucumber/html/'
+          });
     },
     /**
     * Gets executed when a refresh happens.

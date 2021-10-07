@@ -1,9 +1,7 @@
-const Page = require('./page');
-
 /**
  * sub page containing specific selectors and methods for a specific page
  */
-class LoginPage extends Page {
+class LoginPage {
     /**
      * define selectors using getter methods
      */
@@ -31,4 +29,4 @@ class LoginPage extends Page {
     }
 }
 
-module.exports = new LoginPage();
+export default new LoginPage();

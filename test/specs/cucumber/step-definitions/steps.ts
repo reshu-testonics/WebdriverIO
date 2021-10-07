@@ -1,6 +1,6 @@
-const { Given, When, Then } = require('@cucumber/cucumber');
-const LoginPage = require('../../../pageobjects/login.page');
-const SecurePage = require('../../../pageobjects/secure.page');
+import { Given, When, Then } from '@cucumber/cucumber'
+import LoginPage from '../../../pageobjects/login.page';
+import SecurePage from '../../../pageobjects/secure.page';
 
 Given('the user is on login page', async function () {
     await LoginPage.open(global.url);
@@ -8,12 +8,12 @@ Given('the user is on login page', async function () {
 });
 
 When('the user enters username as {string} and password as {string}', async function (username, password) {
-    await LoginPage.inputUsername.setValue(username)
-    await LoginPage.inputPassword.setValue(password)
+    await (await LoginPage.inputUsername).setValue(username)
+    await (await LoginPage.inputPassword).setValue(password)
 });
 
 When('clicks on login button', async function () {
-    await LoginPage.btnSubmit.click()
+    await (await LoginPage.btnSubmit).click()
 });
 
 Then('the user must navigate to secure area page displaying a message {string}', function (successMessage) {    
