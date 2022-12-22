@@ -1,0 +1,323 @@
+URL,PageTitle,PageURL,PageLoadTime(ms),PageLinkFetchTime(ms),URLValidationStatus,ResponseCode,ResponseTime(ms)
+https://www.google.com/,Google,https://www.google.com/,1959,70,Checked,200,649
+https://mail.google.com/mail/&ogbl,Google,https://www.google.com/,1959,70,Checked: Based on URL Level Check 2,200,926
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ,Google,https://www.google.com/,1959,70,Checked: Based on URL Level Check 2,200,484
+https://www.google.com/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1,Google,https://www.google.com/,1959,70,Checked: Based on URL Level Check 2,200,382
+https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1,Google,https://www.google.com/,1959,70,Checked: Based on URL Level Check 2,200,216
+https://google.com/search/howsearchworks/?fg=1,Google,https://www.google.com/,1959,70,Checked: Based on URL Level Check 2,200,392
+https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1,Google,https://www.google.com/,1959,70,Checked: Based on URL Level Check 2,200,804
+https://www.google.com/preferences?hl=en-IN&fg=1,Search Settings,https://www.google.com/preferences?hl=en-IN&fg=1,2055,52,Checked,200,281
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/preferences%3Fhl%3Den-IN%26fg%3D1&ec=GAZAAQ,Search Settings,https://www.google.com/preferences?hl=en-IN&fg=1,2055,52,Checked: Based on URL Level Check 2,200,505
+/safesearch?hl=en-IN&prev=https://www.google.com/preferences?hl%3Den-IN,Search Settings,https://www.google.com/preferences?hl=en-IN&fg=1,2055,52,Checked: Based on URL Level Check 2,TypeError: Only absolute URLs are supported,1
+https://accounts.google.com/ServiceLogin?continue=https://www.google.com/preferences%3Fhl%3Den-IN&hl=en,Search Settings,https://www.google.com/preferences?hl=en-IN&fg=1,2055,52,Checked: Based on URL Level Check 2,200,486
+https://support.google.com/websearch?p=ws_settings_signin&hl=en-IN,Change your Search browser settings - Computer - Google Search Help,https://support.google.com/websearch?p=ws_settings_signin&hl=en-IN,2967,122,Checked,200,488
+https://accounts.google.com/ServiceLogin?hl=en-IN&passive=true&continue=http://support.google.com/websearch/answer/2539428%3Fhl%3Den-IN%26visit_id%3D638072867477277675-188117837%26p%3Dws_settings_signin%26rd%3D1&ec=GAZAdQ,Change your Search browser settings - Computer - Google Search Help,https://support.google.com/websearch?p=ws_settings_signin&hl=en-IN,2967,122,Checked: Based on URL Level Check 2,200,499
+https://support.google.com/posts/answer/7534842,Change your Search browser settings - Computer - Google Search Help,https://support.google.com/websearch?p=ws_settings_signin&hl=en-IN,2967,122,Checked: Based on URL Level Check 2,200,451
+//www.google.com/intl/en/privacy.html,Change your Search browser settings - Computer - Google Search Help,https://support.google.com/websearch?p=ws_settings_signin&hl=en-IN,2967,122,Checked: Based on URL Level Check 2,TypeError: Only absolute URLs are supported,0
+https://www.google.com/accounts/TOS,Change your Search browser settings - Computer - Google Search Help,https://support.google.com/websearch?p=ws_settings_signin&hl=en-IN,2967,122,Checked: Based on URL Level Check 2,200,1487
+https://policies.google.com/terms?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked,200,852
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/terms?hl%3Den&followup=https://policies.google.com/terms?hl%3Den&hl=en&ec=GAZAoQQ,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,481
+https://www.google.com/about/philosophy.html?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,336
+https://support.google.com/accounts/answer/1350409?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,272
+https://takeout.google.com/settings/takeout?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,704
+https://support.google.com/legal/topic/4558877?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,261
+https://support.google.com/groups/answer/81275?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,584
+https://support.google.com/accounts/answer/27441?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,654
+https://support.google.com/legal/answer/3110420?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,262
+https://support.google.com/accounts/answer/40695?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,271
+https://www.google.com/tools/feedback?hl=en,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,655
+https://accounts.google.com/ServiceLogin?hl=en&continue=https://policies.google.com/terms?hl%3Den,Google Terms of Service – Privacy & Terms – Google,https://policies.google.com/terms?hl=en,3018,126,Checked: Based on URL Level Check 2,200,503
+https://www.google.com/contact?hl=en,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked,200,377
+https://policies.google.com/technologies/cookies,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,279
+https://www.google.com/nonprofits/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,213
+https://www.google.com/contact/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,381
+https://www.thinkwithgoogle.com/intl/en-gb/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,672
+https://www.google.com/permissions/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,391
+https://services.google.com/fb/forms/speakerrequest/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,404,489
+https://www.google.com/about/appsecurity/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,561
+https://www.google.com/about/software-principles.html,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,232
+https://www.google.com/about/unwanted-software-policy.html,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,221
+https://www.google.com/about/responsible-supply-chain/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,1230
+https://www.google.com/diversity/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,913
+https://www.google.com/intl/en_uk/accessibility/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,210
+https://www.google.com/policies/privacy/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,206
+https://www.google.com/policies/terms/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en,1364,145,Checked: Based on URL Level Check 2,200,209
+https://support.google.com?hl=en,Google Help,https://support.google.com?hl=en,1078,89,Checked,200,274
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/%3Fhl%3Den&ec=GAZAdQ,Google Help,https://support.google.com?hl=en,1078,89,Checked: Based on URL Level Check 2,200,501
+https://www.google.com/accounts/recovery,Google Help,https://support.google.com?hl=en,1078,89,Checked: Based on URL Level Check 2,200,444
+https://payments.google.com/manage/,Google Help,https://support.google.com?hl=en,1078,89,Checked: Based on URL Level Check 2,200,3059
+https://www.google.com/get/googletips,Google Help,https://support.google.com?hl=en,1078,89,Checked: Based on URL Level Check 2,200,852
+http://www.google.com/appsstatus,Google Workspace Status Dashboard,http://www.google.com/appsstatus,2496,41,Checked,200,297
+https://www.google.com/appsstatus/dashboard/,Google Workspace Status Dashboard,http://www.google.com/appsstatus,2496,41,Checked: Based on URL Level Check 2,200,219
+https://support.google.com/a/,Google Workspace Status Dashboard,http://www.google.com/appsstatus,2496,41,Checked: Based on URL Level Check 2,200,692
+https://support.google.com/a/answer/139569,Google Workspace Status Dashboard,http://www.google.com/appsstatus,2496,41,Checked: Based on URL Level Check 2,200,611
+https://ads.google.com/status/publisher,Google Workspace Status Dashboard,http://www.google.com/appsstatus,2496,41,Checked: Based on URL Level Check 2,200,2708
+https://www.google.com/appsstatus/dashboard/summary,Google Workspace Status Dashboard,http://www.google.com/appsstatus,2496,41,Checked: Based on URL Level Check 2,200,744
+https://www.google.com/appsstatus/dashboard/en-IN/feed.atom,Google Workspace Status Dashboard,http://www.google.com/appsstatus,2496,41,Checked: Based on URL Level Check 2,200,1759
+https://www.google.com/appsstatus/dashboard/incidents.json,Google Workspace Status Dashboard,http://www.google.com/appsstatus,2496,41,Checked: Based on URL Level Check 2,200,1661
+https://www.google.com/appsstatus/dashboard/incidents.schema.json,Google Workspace Status Dashboard,http://www.google.com/appsstatus,2496,41,Checked: Based on URL Level Check 2,200,1999
+https://policies.google.com/privacy,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked,200,844
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/privacy&followup=https://policies.google.com/privacy&ec=GAZAoQQ,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,495
+https://support.google.com/android/answer/9021432,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,282
+https://support.google.com/accounts/answer/6078260,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,630
+https://support.google.com/websearch/answer/54068#zippy=%2Cinfo-about-your-browsing-and-other-activity-on-sites-apps-and-devices-that-use-google-services,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,288
+https://www.google.com/history/optout?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,1080
+https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,289
+https://transparencyreport.google.com/user-data/overview,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,1722
+https://www.google.com/landing/2step/?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,420
+https://support.google.com/photos/answer/6128858,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,624
+https://support.google.com/docs/answer/6023494,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,283
+https://support.google.com/accounts/answer/465?authuser=0#auto-delete,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,587
+https://www.google.com/chrome/intl/en/privacy.html,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,578
+https://fiber.google.com/legal/privacy.html,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,1501
+https://fi.google.com/about/tos/#project-fi-privacy-notice,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,266
+https://workspace.google.com/terms/education_privacy.html,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,250
+https://families.google.com/familylink/privacy/child-policy/,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,871
+https://families.google.com/familylink/privacy/child-disclosure/,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,177
+https://assistant.google.com/privacy-notice-childrens-features/,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,212
+https://cloud.google.com/terms/cloud-privacy-notice,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,1775
+https://www.google.com/intl/en/safetycenter/,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,390
+https://www.google.com/policies/privacy/teens/,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,226
+https://privacy.google.com/businesses/affiliates,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,778
+https://support.google.com/android/answer/10546414,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,324
+https://support.google.com/legal/answer/12158374,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,591
+https://www.google.com/about/datacenters/inside/locations,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,356
+https://support.google.com/websearch/answer/6030020#zippy=%2Chow-audio-recordings-are-saved,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Checked: Based on URL Level Check 2,200,639
+https://contacts.google.com,Sign in - Google Accounts,https://contacts.google.com,1282,106,Checked,200,706
+https://accounts.google.com/TOS?loc=IN&hl=en,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en,1256,125,Checked,200,1033
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/terms?gl%3DIN%26hl%3Den&followup=https://policies.google.com/terms?gl%3DIN%26hl%3Den&hl=en&ec=GAZAoQQ,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en,1256,125,Checked: Based on URL Level Check 2,200,496
+https://accounts.google.com/ServiceLogin?hl=en&continue=https://policies.google.com/terms?gl%3DIN%26hl%3Den,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en,1256,125,Checked: Based on URL Level Check 2,200,477
+https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked,200,488
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/privacy?gl%3DIN%26hl%3Den&followup=https://policies.google.com/privacy?gl%3DIN%26hl%3Den&hl=en&ec=GAZAoQQ,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,496
+https://support.google.com/android/answer/9021432?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,284
+https://support.google.com/accounts/answer/6078260?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,263
+https://support.google.com/websearch/answer/54068?hl=en#zippy=%2Cinfo-about-your-browsing-and-other-activity-on-sites-apps-and-devices-that-use-google-services,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,275
+https://www.google.com/history/optout?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,1102
+https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,586
+https://transparencyreport.google.com/user-data/overview?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,1654
+https://www.google.com/landing/2step/?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,449
+https://support.google.com/photos/answer/6128858?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,319
+https://support.google.com/docs/answer/6023494?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,270
+https://support.google.com/accounts/answer/465?authuser=0&hl=en#auto-delete,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,283
+https://families.google.com/familylink/privacy/child-disclosure/?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,165
+https://assistant.google.com/privacy-notice-childrens-features/?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,172
+https://cloud.google.com/terms/cloud-privacy-notice?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,842
+https://www.google.com/policies/privacy/teens/?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,211
+https://privacy.google.com/businesses/affiliates?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,393
+https://support.google.com/android/answer/10546414?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,259
+https://support.google.com/legal/answer/12158374?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,260
+https://www.google.com/about/datacenters/inside/locations?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,425
+https://support.google.com/websearch/answer/6030020?hl=en#zippy=%2Chow-audio-recordings-are-saved,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Checked: Based on URL Level Check 2,200,274
+https://contacts.google.com?hl=en,Sign in - Google Accounts,https://contacts.google.com?hl=en,1179,183,Checked,200,701
+https://support.google.com/chrome?p=privpol_chrsync&hl=en,Sign in & sync in Chrome - Computer - Google Chrome Help,https://support.google.com/chrome?p=privpol_chrsync&hl=en,2279,70,Checked,200,801
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/chrome/answer/185277%3Fref_topic%3D7439637%26hl%3Den%26visit_id%3D638072867479420689-4074494838%26p%3Dprivpol_chrsync%26rd%3D1&ec=GAZAdQ,Sign in & sync in Chrome - Computer - Google Chrome Help,https://support.google.com/chrome?p=privpol_chrsync&hl=en,2279,70,Checked: Based on URL Level Check 2,200,511
+https://guidebooks.google.com/iphone/chrome/,Sign in & sync in Chrome - Computer - Google Chrome Help,https://support.google.com/chrome?p=privpol_chrsync&hl=en,2279,70,Checked: Based on URL Level Check 2,200,865
+https://www.google.com/chrome/privacy/,Sign in & sync in Chrome - Computer - Google Chrome Help,https://support.google.com/chrome?p=privpol_chrsync&hl=en,2279,70,Checked: Based on URL Level Check 2,200,215
+https://support.google.com/chrome/answer/9116376,Sign in & sync in Chrome - Computer - Google Chrome Help,https://support.google.com/chrome?p=privpol_chrsync&hl=en,2279,70,Checked: Based on URL Level Check 2,200,302
+https://www.google.com/chrome/tips/,Sign in & sync in Chrome - Computer - Google Chrome Help,https://support.google.com/chrome?p=privpol_chrsync&hl=en,2279,70,Checked: Based on URL Level Check 2,200,260
+https://chrome.google.com/sync,Sign in - Google Accounts,https://chrome.google.com/sync,1094,233,Checked,200,556
+//www.google.com/chrome,Error: page.goto: Protocol error (Playwright.navigate): Cannot navigate to invalid URL [{"code":-32000,"message":"Cannot navigate to invalid URL"}]
+=========================== logs ===========================
+navigating to "//www.google.com/chrome", waiting until "load"
+============================================================,TypeError: Only absolute URLs are supported,1
+https://support.google.com/googleplay?p=privpol_review&hl=en,How to rate & review apps in the Google Play Store - Computer - Google Play Help,https://support.google.com/googleplay?p=privpol_review&hl=en,3084,44,Checked,200,840
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/googleplay/answer/4346705%3Fhl%3Den%26visit_id%3D638072867479420689-4074494838%26p%3Dprivpol_review%26rd%3D1&ec=GAZAdQ,How to rate & review apps in the Google Play Store - Computer - Google Play Help,https://support.google.com/googleplay?p=privpol_review&hl=en,3084,44,Checked: Based on URL Level Check 2,200,496
+https://support.google.com/googleplay/thread/191796607/welcome-to-the-google-play-games-beta-on-pc-community-%F0%9F%8E%89?hl=en,How to rate & review apps in the Google Play Store - Computer - Google Play Help,https://support.google.com/googleplay?p=privpol_review&hl=en,3084,44,Checked: Based on URL Level Check 2,200,593
+//accounts.google.com/ServiceLogin?continue=https://support.google.com/googleplay/answer/4346705,How to rate & review apps in the Google Play Store - Computer - Google Play Help,https://support.google.com/googleplay?p=privpol_review&hl=en,3084,44,Checked: Based on URL Level Check 2,TypeError: Only absolute URLs are supported,0
+http://play.google.com/about/play-terms.html,How to rate & review apps in the Google Play Store - Computer - Google Play Help,https://support.google.com/googleplay?p=privpol_review&hl=en,3084,44,Checked: Based on URL Level Check 2,200,271
+https://play.google.com/store,Android Apps on Google Play,https://play.google.com/store,3362,254,Checked,200,435
+https://play.google.com/about/play-pass,Android Apps on Google Play,https://play.google.com/store,3362,254,Checked: Based on URL Level Check 2,200,273
+https://play.google.com/about/giftcards,Android Apps on Google Play,https://play.google.com/store,3362,254,Checked: Based on URL Level Check 2,200,284
+https://support.google.com/googleplay/answer/134336,Android Apps on Google Play,https://play.google.com/store,3362,254,Checked: Based on URL Level Check 2,200,494
+https://support.google.com/googleplay/answer/7007852,Android Apps on Google Play,https://play.google.com/store,3362,254,Checked: Based on URL Level Check 2,200,297
+https://play.google.com/intl/en_in/about/play-terms.html,Android Apps on Google Play,https://play.google.com/store,3362,254,Checked: Based on URL Level Check 2,200,352
+https://support.google.com/googleplay/?p=about_play,Android Apps on Google Play,https://play.google.com/store,3362,254,Checked: Based on URL Level Check 2,200,502
+https://store.google.com/?playredirect=true,Google Store for Google Made Devices & Accessories,https://store.google.com/?playredirect=true,4316,68,Checked,200,807
+https://accounts.google.com/AccountChooser?continue=https://store.google.com/?playredirect%3Dtrue%26hl%3Den-GB&hl=en-GB,Google Store for Google Made Devices & Accessories,https://store.google.com/?playredirect=true,4316,68,Checked: Based on URL Level Check 2,200,726
+https://support.google.com/store/answer/2462844?hl=en_GB,Google Store for Google Made Devices & Accessories,https://store.google.com/?playredirect=true,4316,68,Checked: Based on URL Level Check 2,200,464
+https://support.google.com/store/,Google Store for Google Made Devices & Accessories,https://store.google.com/?playredirect=true,4316,68,Checked: Based on URL Level Check 2,200,629
+https://support.google.com/store/gethelp,Google Store for Google Made Devices & Accessories,https://store.google.com/?playredirect=true,4316,68,Checked: Based on URL Level Check 2,200,833
+https://support.google.com/store/answer/3036017?hl=en&ref_topic=3244667,Google Store for Google Made Devices & Accessories,https://store.google.com/?playredirect=true,4316,68,Checked: Based on URL Level Check 2,200,269
+https://store.google.com/intl/en-GB_in/about/device-terms.html,Google Store for Google Made Devices & Accessories,https://store.google.com/?playredirect=true,4316,68,Checked: Based on URL Level Check 2,200,391
+https://www.google.com/intl/en-GB_in/policies/terms/,Google Store for Google Made Devices & Accessories,https://store.google.com/?playredirect=true,4316,68,Checked: Based on URL Level Check 2,200,206
+https://store.google.com/regionpicker?hl=en-GB,Change your region and language,https://store.google.com/regionpicker?hl=en-GB,2105,127,Checked,200,300
+https://accounts.google.com/AccountChooser?continue=https://store.google.com/regionpicker?hl%3Den-GB&hl=en-GB,Change your region and language,https://store.google.com/regionpicker?hl=en-GB,2105,127,Checked: Based on URL Level Check 2,200,745
+https://store.google.com/account?hl=en-GB,Google Play,https://store.google.com/account?hl=en-GB,1030,77,Checked,200,743
+https://accounts.google.com/TOS?loc=IN&hl=en-GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked,200,1043
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/terms?gl%3DIN%26hl%3Den-GB&followup=https://policies.google.com/terms?gl%3DIN%26hl%3Den-GB&hl=en-GB&ec=GAZAoQQ,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,503
+https://www.google.com/about/philosophy.html?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,352
+https://support.google.com/accounts/answer/1350409?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,461
+https://takeout.google.com/settings/takeout?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,683
+https://support.google.com/legal/topic/4558877?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,451
+https://support.google.com/groups/answer/81275?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,462
+https://support.google.com/accounts/answer/27441?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,765
+https://support.google.com/legal/answer/3110420?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,410
+https://support.google.com/accounts/answer/40695?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,439
+https://www.google.com/tools/feedback?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,694
+https://accounts.google.com/ServiceLogin?hl=en-GB&continue=https://policies.google.com/terms?gl%3DIN%26hl%3Den-GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Checked: Based on URL Level Check 2,200,488
+https://www.google.com/contact?hl=en_GB,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en_GB,833,107,Checked,200,396
+https://support.google.com?hl=en-GB,Google Help,https://support.google.com?hl=en-GB,970,46,Checked,200,250
+https://accounts.google.com/ServiceLogin?hl=en-GB&passive=true&continue=http://support.google.com/%3Fhl%3Den-GB&ec=GAZAdQ,Google Help,https://support.google.com?hl=en-GB,970,46,Checked: Based on URL Level Check 2,200,508
+//www.google.com/intl/en-GB/privacy.html,Google Help,https://support.google.com?hl=en-GB,970,46,Checked: Based on URL Level Check 2,TypeError: Only absolute URLs are supported,1
+https://www.google.com/permissions?hl=en_GB,Permissions – Google,https://www.google.com/permissions?hl=en_GB,1090,40,Checked,200,375
+https://www.google.com/about/,Permissions – Google,https://www.google.com/permissions?hl=en_GB,1090,40,Checked: Based on URL Level Check 2,200,319
+https://www.google.com/about/products/,Permissions – Google,https://www.google.com/permissions?hl=en_GB,1090,40,Checked: Based on URL Level Check 2,200,326
+https://www.google.com,Google,https://www.google.com,815,55,Checked,200,621
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Checked,200,792
+https://accounts.google.com/ServiceLogin?hl=pa&passive=true&continue=https://www.google.com/&ec=GAZAmgQ,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Checked: Based on URL Level Check 2,200,480
+https://www.google.com/intl/pa_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Checked: Based on URL Level Check 2,200,441
+https://support.google.com/websearch/?p=ws_results_help&hl=pa&fg=1,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Checked: Based on URL Level Check 2,200,1105
+https://www.google.com/preferences?hl=pa&fg=1,ਖੋਜ ਸੈਟਿੰਗਾਂ,https://www.google.com/preferences?hl=pa&fg=1,1357,44,Checked,200,295
+https://accounts.google.com/ServiceLogin?hl=pa&passive=true&continue=https://www.google.com/preferences%3Fhl%3Dpa%26fg%3D1&ec=GAZAAQ,ਖੋਜ ਸੈਟਿੰਗਾਂ,https://www.google.com/preferences?hl=pa&fg=1,1357,44,Checked: Based on URL Level Check 2,200,483
+/safesearch?hl=pa&prev=https://www.google.com/preferences?hl%3Dpa,ਖੋਜ ਸੈਟਿੰਗਾਂ,https://www.google.com/preferences?hl=pa&fg=1,1357,44,Checked: Based on URL Level Check 2,TypeError: Only absolute URLs are supported,0
+https://accounts.google.com/ServiceLogin?continue=https://www.google.com/preferences%3Fhl%3Dpa&hl=pa,ਖੋਜ ਸੈਟਿੰਗਾਂ,https://www.google.com/preferences?hl=pa&fg=1,1357,44,Checked: Based on URL Level Check 2,200,474
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwiagoCqyoz8AhXWbN4KHXLtANEQ2ZgBCA8,Google,https://www.google.com/,1959,70,Not Checked,Completed,200,785
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwiagoCqyoz8AhXWbN4KHXLtANEQ2ZgBCBA,Google,https://www.google.com/,1959,70,Not Checked,Completed,200,778
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwiagoCqyoz8AhXWbN4KHXLtANEQ2ZgBCBE,Google,https://www.google.com/,1959,70,Not Checked,Completed,200,774
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwiagoCqyoz8AhXWbN4KHXLtANEQ2ZgBCBI,Google,https://www.google.com/,1959,70,Not Checked,Completed,200,787
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwiagoCqyoz8AhXWbN4KHXLtANEQ2ZgBCBM,Google,https://www.google.com/,1959,70,Not Checked,Completed,200,787
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwiagoCqyoz8AhXWbN4KHXLtANEQ2ZgBCBQ,Google,https://www.google.com/,1959,70,Not Checked,Completed,200,780
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwiagoCqyoz8AhXWbN4KHXLtANEQ2ZgBCBU,Google,https://www.google.com/,1959,70,Not Checked,Completed,200,780
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwiagoCqyoz8AhXWbN4KHXLtANEQ2ZgBCBY,Google,https://www.google.com/,1959,70,Not Checked,Completed,200,793
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwiagoCqyoz8AhXWbN4KHXLtANEQ2ZgBCBc,Google,https://www.google.com/,1959,70,Not Checked,Completed,200,789
+https://policies.google.com/privacy?hl=en-IN&fg=1,Google,https://www.google.com,815,55,Not Checked,Completed,200,285
+https://policies.google.com/terms?hl=en-IN&fg=1,Google,https://www.google.com,815,55,Not Checked,Completed,200,856
+https://support.google.com/websearch?p=search_help&hl=en-IN,Search Settings,https://www.google.com/preferences?hl=en-IN&fg=1,2055,52,Not Checked,Completed,200,1063
+//www.google.com/,Change your Search browser settings - Computer - Google Search Help,https://support.google.com/websearch?p=ws_settings_signin&hl=en-IN,2967,122,Not Checked,Completed,TypeError: Only absolute URLs are supported,0
+https://www.google.com/preferences,Change your Search browser settings - Computer - Google Search Help,https://support.google.com/websearch?p=ws_settings_signin&hl=en-IN,2967,122,Not Checked,Completed,200,293
+https://myaccount.google.com/privacypolicy?hl=en,How to rate & review apps in the Google Play Store - Computer - Google Play Help,https://support.google.com/googleplay?p=privpol_review&hl=en,3084,44,Not Checked,Completed,200,1107
+https://www.google.com/?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,620
+https://myaccount.google.com/?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1283
+https://adssettings.google.com?ref=ps-terms&hl=en,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en,1256,125,Not Checked,Completed,200,5519
+https://myaccount.google.com/security-checkup?hl=en,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en,1256,125,Not Checked,Completed,200,737
+https://www.google.com/permissions?hl=en,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en,1256,125,Not Checked,Completed,200,436
+https://support.google.com/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en_GB,833,107,Not Checked,Completed,200,264
+https://careers.google.com/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en_GB,833,107,Not Checked,Completed,200,472
+mailto:press@google.com,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en_GB,833,107,Not Checked,Completed,TypeError: Only HTTP(S) protocols are supported,1
+https://ads.google.com,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en_GB,833,107,Not Checked,Completed,200,702
+https://cloud.google.com,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en_GB,833,107,Not Checked,Completed,200,1778
+https://workspace.google.com/,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en_GB,833,107,Not Checked,Completed,200,218
+https://transparencyreport.google.com/?hl=en_GB,Contact us for help and office location guidance - Google,https://www.google.com/contact?hl=en_GB,833,107,Not Checked,Completed,200,1807
+https://google.com/,Google Help,https://support.google.com?hl=en-GB,970,46,Not Checked,Completed,200,1145
+//productexperts.withgoogle.com/,Google Help,https://support.google.com?hl=en-GB,970,46,Not Checked,Completed,TypeError: Only absolute URLs are supported,1
+https://myaccount.google.com/,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1432
+https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1460
+https://support.google.com/policies?p=privpol_privts,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,468
+https://myaccount.google.com/?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1498
+https://support.google.com/accounts?p=privpol_location,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,528
+https://support.google.com/accounts?p=privpol_lochistory,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,491
+https://myaccount.google.com/security-checkup?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,702
+https://myadcenter.google.com,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,6117
+https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1216
+https://myaccount.google.com/activitycontrols?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,737
+https://myaccount.google.com/profile?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1202
+https://myaccount.google.com/shared-endorsements?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,951
+https://myactivity.google.com/myactivity?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,534
+https://myaccount.google.com/dashboard?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1534
+https://myaccount.google.com/personal-info?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1181
+https://takeout.google.com/?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,677
+https://myactivity.google.com/?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,252
+https://myaccount.google.com/deleteservices?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,991
+https://myaccount.google.com/deleteaccount?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,493
+https://myaccount.google.com/delete-services-or-account?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1173
+https://myaccount.google.com/inactive?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,962
+https://support.google.com/websearch?p=privpol_locserp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,799
+https://support.google.com/accounts?p=privpol_endorse,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,470
+https://support.google.com/googlehome?p=privpol_homedata,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,769
+https://myaccount.google.com/permissions,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,964
+https://support.google.com/a?p=privpol_admin,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,886
+https://safebrowsing.google.com/?utm_source=pp,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,228
+https://myaccount.google.com/personal-info,Sign in & sync in Chrome - Computer - Google Chrome Help,https://support.google.com/chrome?p=privpol_chrsync&hl=en,2279,70,Not Checked,Completed,200,1201
+https://myactivity.google.com/myactivity,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,497
+https://payments.google.com/legaldocument?family=0.privacynotice&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,2082
+https://support.google.com/accounts?p=privpol_whyad,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,696
+https://support.google.com/websearch?p=privpol_privresults&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,822
+https://support.google.com/accounts?p=autocontacts&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,516
+https://support.google.com/websearch?p=privpol_feed&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,490
+https://support.google.com/googlehome?p=privpol_actions&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1318
+https://support.google.com/websearch?p=privpol_searchactivity,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,496
+https://support.google.com/websearch?p=privpol_incognito,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,474
+https://support.google.com/photos?p=privpol_manage,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1368
+https://support.google.com/accounts?p=privpol_androidloc&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,498
+https://support.google.com/analytics?p=privpol_data&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,897
+https://support.google.com/accounts?p=privpol_controlads&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1350
+https://support.google.com/accounts?p=privpol_agereq&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,510
+https://support.google.com/accounts?p=privpol_whyad&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1004
+https://support.google.com/accounts?p=privpol_phone&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,839
+https://support.google.com/mail?p=privpol_signinactivity&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,512
+https://support.google.com/adwordspolicy?p=privpol_p13nad,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,704
+https://support.google.com/trends?p=privpol_about,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,1341
+https://support.google.com/blogger?p=privpol_blog,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,809
+https://support.google.com/sites?p=privpol_delete,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,495
+https://support.google.com/googleplay?p=privpol_review,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,523
+https://support.google.com/chrome?p=privpol_chrsync,Privacy Policy – Privacy & Terms – Google,https://policies.google.com/privacy,4341,709,Not Checked,Completed,200,469
+https://support.google.com/accounts?p=signin_privatebrowsing&hl=en,Sign in - Google Accounts,https://chrome.google.com/sync,1094,233,Not Checked,Completed,200,499
+https://support.google.com/accounts?hl=en&p=account_iph,Sign in - Google Accounts,https://chrome.google.com/sync,1094,233,Not Checked,Completed,200,1154
+https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1193
+https://support.google.com/policies?p=privpol_privts&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,459
+https://myaccount.google.com/?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1197
+https://support.google.com/accounts?p=privpol_location&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,838
+https://support.google.com/accounts?p=privpol_lochistory&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,855
+https://myaccount.google.com/security-checkup?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1034
+https://myadcenter.google.com?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,6088
+https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1551
+https://myaccount.google.com/activitycontrols?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,621
+https://myaccount.google.com/profile?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,2080
+https://myaccount.google.com/shared-endorsements?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1179
+https://myactivity.google.com/myactivity?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,600
+https://myaccount.google.com/dashboard?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1894
+https://myaccount.google.com/personal-info?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1324
+https://takeout.google.com/?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,815
+https://myactivity.google.com/?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,276
+https://myaccount.google.com/deleteservices?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1064
+https://myaccount.google.com/deleteaccount?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,950
+https://myaccount.google.com/delete-services-or-account?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,972
+https://myaccount.google.com/inactive?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1120
+https://support.google.com/websearch?p=privpol_locserp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,484
+https://support.google.com/accounts?p=privpol_endorse&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,486
+https://support.google.com/googlehome?p=privpol_homedata&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,739
+https://myaccount.google.com/permissions?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,799
+https://support.google.com/a?p=privpol_admin&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,842
+https://safebrowsing.google.com/?utm_source=pp&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,188
+https://myaccount.google.com/personal-info?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1263
+https://myactivity.google.com/myactivity?hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,489
+https://support.google.com/websearch?p=privpol_searchactivity&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,476
+https://support.google.com/websearch?p=privpol_incognito&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,503
+https://support.google.com/photos?p=privpol_manage&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,723
+https://support.google.com/adwordspolicy?p=privpol_p13nad&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,693
+https://support.google.com/trends?p=privpol_about&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,1305
+https://support.google.com/blogger?p=privpol_blog&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,465
+https://support.google.com/sites?p=privpol_delete&hl=en,Privacy Policy – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true,2973,611,Not Checked,Completed,200,789
+//play.google.com/,How to rate & review apps in the Google Play Store - Computer - Google Play Help,https://support.google.com/googleplay?p=privpol_review&hl=en,3084,44,Not Checked,Completed,TypeError: Only absolute URLs are supported,1
+https://myaccount.google.com/termsofservice,Android Apps on Google Play,https://play.google.com/store,3362,254,Not Checked,Completed,200,486
+https://support.google.com/googleplay?p=pff_parentguide,Android Apps on Google Play,https://play.google.com/store,3362,254,Not Checked,Completed,200,830
+https://support.google.com/store?p=store_nav&hl=en-GB,Change your region and language,https://store.google.com/regionpicker?hl=en-GB,2105,127,Not Checked,Completed,200,1351
+https://store.google.com/subscriptions?hl=en-GB,Change your region and language,https://store.google.com/regionpicker?hl=en-GB,2105,127,Not Checked,Completed,200,843
+https://support.google.com/accounts?p=signin_privatebrowsing&hl=en-GB,Google Play,https://store.google.com/account?hl=en-GB,1030,77,Not Checked,Completed,200,514
+https://support.google.com/accounts?hl=en-GB&p=account_iph,Google Play,https://store.google.com/account?hl=en-GB,1030,77,Not Checked,Completed,200,863
+https://accounts.google.com/TOS?loc=IN&hl=en-GB&privacy=true,Google Play,https://store.google.com/account?hl=en-GB,1030,77,Not Checked,Completed,200,483
+https://www.google.com/?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Not Checked,Completed,200,604
+https://myaccount.google.com/?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Not Checked,Completed,200,985
+https://adssettings.google.com?ref=ps-terms&hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Not Checked,Completed,200,5237
+https://myaccount.google.com/security-checkup?hl=en_GB,Google Terms of Service – Privacy & Terms – Google,https://accounts.google.com/TOS?loc=IN&hl=en-GB,1889,115,Not Checked,Completed,200,952
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCA8,Google,https://www.google.com,815,55,Not Checked,Completed,200,691
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBA,Google,https://www.google.com,815,55,Not Checked,Completed,200,712
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBE,Google,https://www.google.com,815,55,Not Checked,Completed,200,694
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBI,Google,https://www.google.com,815,55,Not Checked,Completed,200,687
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBM,Google,https://www.google.com,815,55,Not Checked,Completed,200,706
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBQ,Google,https://www.google.com,815,55,Not Checked,Completed,200,718
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBU,Google,https://www.google.com,815,55,Not Checked,Completed,200,716
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBY,Google,https://www.google.com,815,55,Not Checked,Completed,200,2457
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwihyqPNyoz8AhVTPnAKHUklAtgQ2ZgBCA8,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Not Checked,Completed,200,2418
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwihyqPNyoz8AhVTPnAKHUklAtgQ2ZgBCBA,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Not Checked,Completed,200,724
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwihyqPNyoz8AhVTPnAKHUklAtgQ2ZgBCBE,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Not Checked,Completed,200,695
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwihyqPNyoz8AhVTPnAKHUklAtgQ2ZgBCBI,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Not Checked,Completed,200,2211
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwihyqPNyoz8AhVTPnAKHUklAtgQ2ZgBCBM,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Not Checked,Completed,200,689
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwihyqPNyoz8AhVTPnAKHUklAtgQ2ZgBCBQ,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Not Checked,Completed,200,703
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwihyqPNyoz8AhVTPnAKHUklAtgQ2ZgBCBU,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Not Checked,Completed,200,706
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwihyqPNyoz8AhVTPnAKHUklAtgQ2ZgBCBY,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Not Checked,Completed,200,2410
+https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwihyqPNyoz8AhVTPnAKHUklAtgQ2ZgBCBc,Google,https://www.google.com/setprefs?sig=0_FbQGJ7oVdY597V18Cniajy8iPmU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwik5dfMyoz8AhXXZd4KHaY5BtAQ2ZgBCBc,1136,73,Not Checked,Completed,200,2400
+https://policies.google.com/privacy?hl=pa&fg=1,ਖੋਜ ਸੈਟਿੰਗਾਂ,https://www.google.com/preferences?hl=pa&fg=1,1357,44,Not Checked,Completed,200,808
+https://policies.google.com/terms?hl=pa&fg=1,ਖੋਜ ਸੈਟਿੰਗਾਂ,https://www.google.com/preferences?hl=pa&fg=1,1357,44,Not Checked,Completed,200,830
+https://support.google.com/websearch?p=search_help&hl=pa,ਖੋਜ ਸੈਟਿੰਗਾਂ,https://www.google.com/preferences?hl=pa&fg=1,1357,44,Not Checked,Completed,200,908
+https://support.google.com/websearch?p=ws_settings_signin&hl=pa,ਖੋਜ ਸੈਟਿੰਗਾਂ,https://www.google.com/preferences?hl=pa&fg=1,1357,44,Not Checked,Completed,200,558
